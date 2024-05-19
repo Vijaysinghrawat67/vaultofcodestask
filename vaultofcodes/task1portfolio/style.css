@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: Arial,  sans-serif;
+    line-height: 1.6;
+    background-color: aqua;
+    color:#333;
+    padding: 2px 0;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2px 0;
+}
+
+header h2{
+    font-size: 46px;
+}
+
+main{
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+section h2{
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+ul{
+    margin-bottom: 15px;
+}
+
+ul li{
+    margin-bottom: 5px;
+}
+
+.project{
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
